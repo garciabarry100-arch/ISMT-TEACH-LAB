@@ -1,0 +1,26 @@
+body
+.cv{border: 2px solid white;
+    width: 800px;
+    height: 1000px;
+    margin: 20px auto;
+    display: flex;
+}
+.left{
+    border: 2px solid brown;
+    width: 30%;
+    padding: 10px;
+    background-color: aqua;
+}
+.right{
+    border: 2px solid gray
+    width: 70%;padding: 10px;
+     font-size: 20px 
+     
+}
+image{
+     height: 150px;
+     border: 2px dashed blue;
+     margin-bottom: 10px;
+}
+
+
